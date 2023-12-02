@@ -7,7 +7,8 @@ __pycache__/
 *.so
 .idea
 venv
-
+.gitignore
+.idea/
 # Distribution / packaging
 .Python
 build/

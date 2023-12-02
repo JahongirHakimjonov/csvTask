@@ -1,6 +1,7 @@
-import httpx
 import csv
 import os
+
+import httpx
 
 # JSONPlaceholder API url
 url = "https://jsonplaceholder.typicode.com/users"
